@@ -4,3 +4,4 @@ const some = (name) => {
 };
 
 some("apaekshit");
+console.log("apaekhsit rawat is a cool boy ");
